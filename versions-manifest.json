@@ -1,6 +1,227 @@
-{
-  "version": "1.15.0",
-  "stable": true,
-  "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.15.0-217970311",
-  "files": null
-}
+[
+  {
+    "version": "1.15.0",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.15.0-225528959",
+    "files": [
+      {
+        "filename": "go-1.15.0-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.15.0-225528959/go-1.15.0-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.15.0-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.15.0-225528959/go-1.15.0-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.15.0-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.15.0-225528959/go-1.15.0-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.9.7",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.9.7-225513566",
+    "files": [
+      {
+        "filename": "go-1.9.7-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.7-225513566/go-1.9.7-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.7-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.7-225513566/go-1.9.7-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.7-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.7-225513566/go-1.9.7-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.9.6",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.9.6-225513744",
+    "files": [
+      {
+        "filename": "go-1.9.6-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.6-225513744/go-1.9.6-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.6-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.6-225513744/go-1.9.6-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.6-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.6-225513744/go-1.9.6-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.9.5",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.9.5-225465675",
+    "files": [
+      {
+        "filename": "go-1.9.5-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.5-225465675/go-1.9.5-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.5-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.5-225465675/go-1.9.5-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.5-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.5-225465675/go-1.9.5-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.9.4",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.9.4-225514180",
+    "files": [
+      {
+        "filename": "go-1.9.4-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.4-225514180/go-1.9.4-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.4-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.4-225514180/go-1.9.4-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.4-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.4-225514180/go-1.9.4-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.9.3",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.9.3-225514404",
+    "files": [
+      {
+        "filename": "go-1.9.3-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.3-225514404/go-1.9.3-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.3-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.3-225514404/go-1.9.3-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.3-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.3-225514404/go-1.9.3-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.9.2",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.9.2-225514686",
+    "files": [
+      {
+        "filename": "go-1.9.2-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.2-225514686/go-1.9.2-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.2-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.2-225514686/go-1.9.2-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.2-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.2-225514686/go-1.9.2-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.9.1",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.9.1-225514874",
+    "files": [
+      {
+        "filename": "go-1.9.1-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.1-225514874/go-1.9.1-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.1-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.1-225514874/go-1.9.1-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.1-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.1-225514874/go-1.9.1-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "version": "1.9.0",
+    "stable": true,
+    "release_url": "https://github.com/nikita-bykov/go-versions/releases/tag/1.9.0-225515089",
+    "files": [
+      {
+        "filename": "go-1.9.0-darwin-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.0-225515089/go-1.9.0-darwin-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.0-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.0-225515089/go-1.9.0-linux-x64.tar.gz"
+      },
+      {
+        "filename": "go-1.9.0-win32-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://github.com/nikita-bykov/go-versions/releases/download/1.9.0-225515089/go-1.9.0-win32-x64.zip"
+      }
+    ]
+  }
+]
